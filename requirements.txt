@@ -1,0 +1,2 @@
+SpeechRecognition==3.8.1
+tqdm==4.61.0
